@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Anne!
-- 👀 I’m interested in everything to do with cloud computing and programming
-- 🌱 I’m currently learning Python, JavaScript, HTML, CSS, and Ruby
+- 👀 I’m interested in everything to do with data science, programming and cloud computing
 - 💞️ I’m looking to collaborate on as many projects as I can!
 - 📫 How to reach me: anne.igbek@gmail.com
 
